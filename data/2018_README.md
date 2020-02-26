@@ -1,7 +1,7 @@
 
 ## Overview
 
-This data was collected by students for a sentiment analysis project in my intro to text mining course, during the 2018-2019 academic year. Each student group was asked to collect social media comments about a Tunisian celebrity of their choice. The names of the files indicate the name of the celebrity.
+This data was collected by students for a sentiment analysis project in my intro to text mining course, during the 2018-2019 academic year. Each student group was asked to collect social media comments about a Tunisian "celebrity" of their choice, which could be a person, brand, sports team, political party, etc. The names of the files indicate the name of the chosen celebrity.
 
 ## Remarks about text formatting issues
 
